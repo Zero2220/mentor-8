@@ -1,0 +1,24 @@
+﻿@model Card  
+<form asp-action="create" method="post" >
+    <div class="form-group">
+        <label asp-for="Name">Name</label>
+        <input asp-for="Name" type="text" class="form-control" id="Name" aria-describedby="emailHelp" placeholder="Enter Name">
+    </div>
+    <div class="form-group">
+        <label asp-for="BtnContext">ButtonContext</label>
+        <input asp-for="BtnContext" type="text" class="form-control" id="BtnContext" aria-describedby="emailHelp" placeholder="Enter ButtonContext">
+    </div>
+    <div class="form-group">
+        <label asp-for="Price"></label>
+        <input type="number" class="form-control" id="Price">
+    </div>
+    <div class="form-check">
+        <input asp-for="IsFeatured" type="checkbox" class="form-check-input">
+        <label asp-for="IsFeatured" class="form-check-label" for="IsFeatured">IsFeatured</label>
+    </div>
+    <div class="form-check">
+        <input asp-for="IsAdvanced" type="checkbox" class="form-check-input" id="IsAdvanced">
+        <label asp-for="IsAdvanced" class="form-check-label" for="IsAdvanced">IsAdvanced</label>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

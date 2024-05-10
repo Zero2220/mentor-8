@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anarpi\\Desktop\\Mentor-Template-Lab-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\anarpi\\desktop\\mentor-template-lab-main\\mentorinclass\\areas\\manage\\views\\pricing\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\areas\\manage\\views\\pricing\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\anarpi\\desktop\\mentor-template-lab-main\\mentorinclass\\areas\\manage\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\areas\\manage\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\anarpi\\desktop\\mentor-template-lab-main\\mentorinclass\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anarpi\\Desktop\\Mentor-Template-Lab-main\\MentorInClass\\Migrations\\20240503170446_deletedCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MentorInClass\\Migrations\\20240503170446_deletedCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\anarpi\\desktop\\mentor-template-lab-main\\mentorinclass\\areas\\manage\\views\\pricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\areas\\manage\\views\\pricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\anarpi\\desktop\\mentor-template-lab-main\\mentorinclass\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\anarpi\\desktop\\mentor-template-lab-main\\mentorinclass\\areas\\manage\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\areas\\manage\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\anarpi\\desktop\\mentor-template-lab-main\\mentorinclass\\areas\\manage\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\areas\\manage\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\anarpi\\desktop\\mentor-template-lab-main\\mentorinclass\\areas\\manage\\views\\pricing\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\areas\\manage\\views\\pricing\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\anarpi\\desktop\\mentor-template-lab-main\\mentorinclass\\areas\\manage\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\areas\\manage\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\anarpi\\desktop\\mentor-template-lab-main\\mentorinclass\\views\\pricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\views\\pricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\anarpi\\desktop\\mentor-template-lab-main\\mentorinclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\anarpi\\desktop\\mentor-template-lab-main\\mentorinclass\\areas\\manage\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\areas\\manage\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\anarpi\\desktop\\mentor-template-lab-main\\mentorinclass\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\anarpi\\desktop\\mentor-template-lab-main\\mentorinclass\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\anarpi\\desktop\\mentor-template-lab-main\\mentorinclass\\mentorinclass.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\mentorinclass.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240503170446_deletedCategory.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor-Template-Lab-main\\MentorInClass\\Migrations\\20240503170446_deletedCategory.cs",
+              "RelativeDocumentMoniker": "MentorInClass\\Migrations\\20240503170446_deletedCategory.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor-Template-Lab-main\\MentorInClass\\Migrations\\20240503170446_deletedCategory.cs",
+              "RelativeToolTip": "MentorInClass\\Migrations\\20240503170446_deletedCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T17:04:46.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor-Template-Lab-main\\MentorInClass\\Areas\\Manage\\Views\\Pricing\\Create.cshtml",
+              "RelativeDocumentMoniker": "MentorInClass\\Areas\\Manage\\Views\\Pricing\\Create.cshtml",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor-Template-Lab-main\\MentorInClass\\Areas\\Manage\\Views\\Pricing\\Create.cshtml",
+              "RelativeToolTip": "MentorInClass\\Areas\\Manage\\Views\\Pricing\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T15:56:57.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PricingController.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor-Template-Lab-main\\MentorInClass\\Areas\\Manage\\Controllers\\PricingController.cs",
+              "RelativeDocumentMoniker": "MentorInClass\\Areas\\Manage\\Controllers\\PricingController.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor-Template-Lab-main\\MentorInClass\\Areas\\Manage\\Controllers\\PricingController.cs",
+              "RelativeToolTip": "MentorInClass\\Areas\\Manage\\Controllers\\PricingController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:56:22.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor-Template-Lab-main\\MentorInClass\\Areas\\Manage\\Views\\Pricing\\Index.cshtml",
+              "RelativeDocumentMoniker": "MentorInClass\\Areas\\Manage\\Views\\Pricing\\Index.cshtml",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor-Template-Lab-main\\MentorInClass\\Areas\\Manage\\Views\\Pricing\\Index.cshtml",
+              "RelativeToolTip": "MentorInClass\\Areas\\Manage\\Views\\Pricing\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T15:56:31.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor-Template-Lab-main\\MentorInClass\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MentorInClass\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor-Template-Lab-main\\MentorInClass\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MentorInClass\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T15:43:52.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor-Template-Lab-main\\MentorInClass\\Areas\\Manage\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "MentorInClass\\Areas\\Manage\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor-Template-Lab-main\\MentorInClass\\Areas\\Manage\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "MentorInClass\\Areas\\Manage\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:43:52.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor-Template-Lab-main\\MentorInClass\\Areas\\Manage\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MentorInClass\\Areas\\Manage\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor-Template-Lab-main\\MentorInClass\\Areas\\Manage\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MentorInClass\\Areas\\Manage\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T16:10:46.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor-Template-Lab-main\\MentorInClass\\Models\\Card.cs",
+              "RelativeDocumentMoniker": "MentorInClass\\Models\\Card.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor-Template-Lab-main\\MentorInClass\\Models\\Card.cs",
+              "RelativeToolTip": "MentorInClass\\Models\\Card.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:57:34.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor-Template-Lab-main\\MentorInClass\\Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MentorInClass\\Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor-Template-Lab-main\\MentorInClass\\Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MentorInClass\\Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T16:10:59.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor-Template-Lab-main\\MentorInClass\\Areas\\Manage\\Views\\Pricing\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MentorInClass\\Areas\\Manage\\Views\\Pricing\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor-Template-Lab-main\\MentorInClass\\Areas\\Manage\\Views\\Pricing\\Edit.cshtml",
+              "RelativeToolTip": "MentorInClass\\Areas\\Manage\\Views\\Pricing\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T15:57:14.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor-Template-Lab-main\\MentorInClass\\Views\\Pricing\\Index.cshtml",
+              "RelativeDocumentMoniker": "MentorInClass\\Views\\Pricing\\Index.cshtml",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor-Template-Lab-main\\MentorInClass\\Views\\Pricing\\Index.cshtml",
+              "RelativeToolTip": "MentorInClass\\Views\\Pricing\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC4AAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T15:43:52.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAHYUAAAAAAAAAAAgwIUUAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-03T16:05:01.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor-Template-Lab-main\\MentorInClass\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "MentorInClass\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor-Template-Lab-main\\MentorInClass\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "MentorInClass\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAEcBAAAAAAAAAAAAAGUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T15:43:52.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor-Template-Lab-main\\MentorInClass\\Program.cs",
+              "RelativeDocumentMoniker": "MentorInClass\\Program.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor-Template-Lab-main\\MentorInClass\\Program.cs",
+              "RelativeToolTip": "MentorInClass\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:43:52.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor-Template-Lab-main\\MentorInClass\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "MentorInClass\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor-Template-Lab-main\\MentorInClass\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "MentorInClass\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-03T15:43:52.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MentorInClass.csproj",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor-Template-Lab-main\\MentorInClass\\MentorInClass.csproj",
+              "RelativeDocumentMoniker": "MentorInClass\\MentorInClass.csproj",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor-Template-Lab-main\\MentorInClass\\MentorInClass.csproj",
+              "RelativeToolTip": "MentorInClass\\MentorInClass.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-03T15:43:52.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Mentor-Template-Lab-main\\MentorInClass\\appsettings.json",
+              "RelativeDocumentMoniker": "MentorInClass\\appsettings.json",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Mentor-Template-Lab-main\\MentorInClass\\appsettings.json",
+              "RelativeToolTip": "MentorInClass\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-03T15:43:52.55Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
